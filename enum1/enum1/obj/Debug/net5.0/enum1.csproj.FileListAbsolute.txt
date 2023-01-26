@@ -1,0 +1,16 @@
+C:\Users\s2101009\source\repos\enum1\enum1\obj\Debug\net5.0\enum1.csproj.AssemblyReference.cache
+C:\Users\s2101009\source\repos\enum1\enum1\obj\Debug\net5.0\enum1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101009\source\repos\enum1\enum1\obj\Debug\net5.0\enum1.AssemblyInfoInputs.cache
+C:\Users\s2101009\source\repos\enum1\enum1\obj\Debug\net5.0\enum1.AssemblyInfo.cs
+C:\Users\s2101009\source\repos\enum1\enum1\obj\Debug\net5.0\enum1.csproj.CoreCompileInputs.cache
+C:\Users\s2101009\source\repos\enum1\enum1\bin\Debug\net5.0\enum1.exe
+C:\Users\s2101009\source\repos\enum1\enum1\bin\Debug\net5.0\enum1.deps.json
+C:\Users\s2101009\source\repos\enum1\enum1\bin\Debug\net5.0\enum1.runtimeconfig.json
+C:\Users\s2101009\source\repos\enum1\enum1\bin\Debug\net5.0\enum1.runtimeconfig.dev.json
+C:\Users\s2101009\source\repos\enum1\enum1\bin\Debug\net5.0\enum1.dll
+C:\Users\s2101009\source\repos\enum1\enum1\bin\Debug\net5.0\ref\enum1.dll
+C:\Users\s2101009\source\repos\enum1\enum1\bin\Debug\net5.0\enum1.pdb
+C:\Users\s2101009\source\repos\enum1\enum1\obj\Debug\net5.0\enum1.dll
+C:\Users\s2101009\source\repos\enum1\enum1\obj\Debug\net5.0\ref\enum1.dll
+C:\Users\s2101009\source\repos\enum1\enum1\obj\Debug\net5.0\enum1.pdb
+C:\Users\s2101009\source\repos\enum1\enum1\obj\Debug\net5.0\enum1.genruntimeconfig.cache
