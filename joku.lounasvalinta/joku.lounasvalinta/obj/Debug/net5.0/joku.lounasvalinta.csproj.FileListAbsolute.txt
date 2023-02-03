@@ -1,0 +1,16 @@
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\bin\Debug\net5.0\joku.lounasvalinta.exe
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\bin\Debug\net5.0\joku.lounasvalinta.deps.json
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\bin\Debug\net5.0\joku.lounasvalinta.runtimeconfig.json
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\bin\Debug\net5.0\joku.lounasvalinta.runtimeconfig.dev.json
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\bin\Debug\net5.0\joku.lounasvalinta.dll
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\bin\Debug\net5.0\ref\joku.lounasvalinta.dll
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\bin\Debug\net5.0\joku.lounasvalinta.pdb
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\obj\Debug\net5.0\joku.lounasvalinta.csproj.AssemblyReference.cache
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\obj\Debug\net5.0\joku.lounasvalinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\obj\Debug\net5.0\joku.lounasvalinta.AssemblyInfoInputs.cache
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\obj\Debug\net5.0\joku.lounasvalinta.AssemblyInfo.cs
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\obj\Debug\net5.0\joku.lounasvalinta.csproj.CoreCompileInputs.cache
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\obj\Debug\net5.0\joku.lounasvalinta.dll
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\obj\Debug\net5.0\ref\joku.lounasvalinta.dll
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\obj\Debug\net5.0\joku.lounasvalinta.pdb
+C:\Users\s2101009\source\repos\joku.lounasvalinta\joku.lounasvalinta\obj\Debug\net5.0\joku.lounasvalinta.genruntimeconfig.cache
