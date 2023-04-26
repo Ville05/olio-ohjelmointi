@@ -1,0 +1,15 @@
+C:\Users\s2101009\source\repos\reppu\reppu\obj\Debug\net6.0\reppu.csproj.AssemblyReference.cache
+C:\Users\s2101009\source\repos\reppu\reppu\obj\Debug\net6.0\reppu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101009\source\repos\reppu\reppu\obj\Debug\net6.0\reppu.AssemblyInfoInputs.cache
+C:\Users\s2101009\source\repos\reppu\reppu\obj\Debug\net6.0\reppu.AssemblyInfo.cs
+C:\Users\s2101009\source\repos\reppu\reppu\obj\Debug\net6.0\reppu.csproj.CoreCompileInputs.cache
+C:\Users\s2101009\source\repos\reppu\reppu\bin\Debug\net6.0\reppu.exe
+C:\Users\s2101009\source\repos\reppu\reppu\bin\Debug\net6.0\reppu.deps.json
+C:\Users\s2101009\source\repos\reppu\reppu\bin\Debug\net6.0\reppu.runtimeconfig.json
+C:\Users\s2101009\source\repos\reppu\reppu\bin\Debug\net6.0\reppu.dll
+C:\Users\s2101009\source\repos\reppu\reppu\bin\Debug\net6.0\reppu.pdb
+C:\Users\s2101009\source\repos\reppu\reppu\obj\Debug\net6.0\reppu.dll
+C:\Users\s2101009\source\repos\reppu\reppu\obj\Debug\net6.0\refint\reppu.dll
+C:\Users\s2101009\source\repos\reppu\reppu\obj\Debug\net6.0\reppu.pdb
+C:\Users\s2101009\source\repos\reppu\reppu\obj\Debug\net6.0\reppu.genruntimeconfig.cache
+C:\Users\s2101009\source\repos\reppu\reppu\obj\Debug\net6.0\ref\reppu.dll

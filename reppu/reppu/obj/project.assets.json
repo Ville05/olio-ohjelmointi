@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\s2101009\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s2101009\\source\\repos\\olio-ohjelmointi\\nuolikauppa\\nuolikauppa\\nuolikauppa.csproj",
-      "projectName": "nuolikauppa",
-      "projectPath": "C:\\Users\\s2101009\\source\\repos\\olio-ohjelmointi\\nuolikauppa\\nuolikauppa\\nuolikauppa.csproj",
+      "projectUniqueName": "C:\\Users\\s2101009\\OneDrive - Business College Helsinki\\Toimisto ohjelmistot\\Työpöytä\\Olio-ohjelmointi\\reppu\\reppu\\reppu.csproj",
+      "projectName": "reppu",
+      "projectPath": "C:\\Users\\s2101009\\OneDrive - Business College Helsinki\\Toimisto ohjelmistot\\Työpöytä\\Olio-ohjelmointi\\reppu\\reppu\\reppu.csproj",
       "packagesPath": "C:\\Users\\s2101009\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s2101009\\source\\repos\\olio-ohjelmointi\\nuolikauppa\\nuolikauppa\\obj\\",
+      "outputPath": "C:\\Users\\s2101009\\OneDrive - Business College Helsinki\\Toimisto ohjelmistot\\Työpöytä\\Olio-ohjelmointi\\reppu\\reppu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s2101009\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
@@ -55,11 +55,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
       }
     }
