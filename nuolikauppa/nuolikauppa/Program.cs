@@ -1,18 +1,11 @@
-﻿string karkitilaus = "a";
-string peratilaus = "b";
+﻿using System;
+
+string karkit = "a.tilaus";
+string peratilaus = "b.tilaus";
 int pituustilaus = 0;
 string haluttupituus;
 
-Console.WriteLine("Minkälainen kärki (puu, teräs, timantti) :");
-while (karkitilaus != "puu" || karkitilaus != "teräs" || karkitilaus != "timantti")
-{
-    karkitilaus = Console.ReadLine();
-    if (karkitilaus == "puu" || karkitilaus == "timantti" || karkitilaus == "teräs")
-    {
-        break;
-    }
-}
-Console.WriteLine("Minkälainen perä (lehti, kanansulka, kotkansulka) :");
+Console.WriteLine("Aloitetaan perästä minkälainen perä saisi olla? (lehti, kanansulka, kotkansulka) :");
 while (peratilaus != "lehti" || peratilaus != "kanansulka" || peratilaus != "kotkansulka")
 {
     peratilaus = Console.ReadLine();
@@ -21,7 +14,19 @@ while (peratilaus != "lehti" || peratilaus != "kanansulka" || peratilaus != "kot
         break;
     }
 }
-Console.WriteLine("Nuolen pituus (60-100cm) :");
+
+
+Console.WriteLine("Minkälainen kärki (kivinen, kultainen, timantti) :");
+while (karkit != "kivinen" || karkit != "kultainen" || karkit != "timantti")
+{
+    karkit = Console.ReadLine();
+    if (karkit == "timantti" || karkit == "kultainen" || karkit == "kivinen")
+    {
+        break;
+    }
+}
+
+Console.WriteLine("Nuolen koko (60-100cm) :");
 while (pituustilaus < 60 || pituustilaus > 100)
 {
     haluttupituus = Console.ReadLine();
@@ -30,61 +35,70 @@ while (pituustilaus < 60 || pituustilaus > 100)
         break;
     }
 }
-Nuoli tilattuNuoli = new Nuoli(karkitilaus, peratilaus, pituustilaus);
-Console.WriteLine("Nuoli maksaa " + tilattuNuoli.PalautaHinta() + " kultaa");
+Nuoli tilattuNuoli = new Nuoli(karkit, peratilaus, pituustilaus);
+Console.WriteLine("Nuoli maksaa " + tilattuNuoli.Hinta() + " kultaa");
 
 
 
 public class Nuoli
 {
+    private double _pituus;
     private string _karki;
     private string _pera;
-    private double _pituus;
     private double nuolenhinta;
+    
+    
 
     public Nuoli(string karki, string pera, int pituus)
     {
-        _karki = karki;
-        _pera = pera;
         _pituus = pituus;
-        if (_karki == "puu")
-        {
-            nuolenhinta += 3;
-        }
-        if (_karki == "teräs")
-        {
-            nuolenhinta += 5;
-        }
+        _pera = pera;
+        _karki = karki;
+        
+
         if (_karki == "timantti")
         {
             nuolenhinta += 50;
+        }
+        if (_karki == "kivinen")
+        {
+            nuolenhinta += 6;
+        }
+        if (_karki == "kultainen")
+        {
+            nuolenhinta += 25;
+        }
+        
+       
+        if (_pera == "kotkansulka")
+        {
+            nuolenhinta += 5;
         }
         if (_pera == "kanansulka")
         {
             nuolenhinta += 1;
         }
-        if (_pera == "kotkansulka")
-        {
-            nuolenhinta += 5;
-        }
-        nuolenhinta = nuolenhinta + _pituus * 0.05;
+        nuolenhinta = nuolenhinta + _pituus * 0.5;
         return;
     }
 
-    public double PalautaHinta()
+    
+    public string pääty()
+    {
+        return _karki;
+    }
+   
+
+    public double Hinta()
     {
         return nuolenhinta;
     }
-    public string Karki()
+    public double koko()
     {
-        return _karki;
+        return _pituus;
     }
     public string Pera()
     {
         return _pera;
-    }
-    public double Pituus()
-    {
-        return _pituus;
     }
 }

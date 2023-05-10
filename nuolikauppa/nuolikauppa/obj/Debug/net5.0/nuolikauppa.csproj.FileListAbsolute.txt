@@ -1,0 +1,16 @@
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\bin\Debug\net5.0\nuolikauppa.exe
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\bin\Debug\net5.0\nuolikauppa.deps.json
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\bin\Debug\net5.0\nuolikauppa.runtimeconfig.json
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\bin\Debug\net5.0\nuolikauppa.runtimeconfig.dev.json
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\bin\Debug\net5.0\nuolikauppa.dll
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\bin\Debug\net5.0\nuolikauppa.pdb
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\obj\Debug\net5.0\nuolikauppa.csproj.AssemblyReference.cache
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\obj\Debug\net5.0\nuolikauppa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\obj\Debug\net5.0\nuolikauppa.AssemblyInfoInputs.cache
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\obj\Debug\net5.0\nuolikauppa.AssemblyInfo.cs
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\obj\Debug\net5.0\nuolikauppa.csproj.CoreCompileInputs.cache
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\obj\Debug\net5.0\nuolikauppa.dll
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\obj\Debug\net5.0\refint\nuolikauppa.dll
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\obj\Debug\net5.0\nuolikauppa.pdb
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\obj\Debug\net5.0\nuolikauppa.genruntimeconfig.cache
+C:\Users\s2101009\source\repos\olio-ohjelmointi\nuolikauppa\nuolikauppa\obj\Debug\net5.0\ref\nuolikauppa.dll
