@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitustyö - C# Olio-ohjelmointi", "Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi.csproj", "{041D6DFE-5D5F-432A-8A80-7F31373DA5EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041D6DFE-5D5F-432A-8A80-7F31373DA5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041D6DFE-5D5F-432A-8A80-7F31373DA5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041D6DFE-5D5F-432A-8A80-7F31373DA5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041D6DFE-5D5F-432A-8A80-7F31373DA5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7554A4A-6ED2-4181-B1FE-FC5BF12BC6B7}
+	EndGlobalSection
+EndGlobal

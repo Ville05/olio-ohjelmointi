@@ -1,0 +1,15 @@
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\bin\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.exe
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\bin\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.deps.json
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\bin\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.runtimeconfig.json
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\bin\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.dll
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\bin\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.pdb
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\obj\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.csproj.AssemblyReference.cache
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\obj\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\obj\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.AssemblyInfoInputs.cache
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\obj\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.AssemblyInfo.cs
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\obj\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.csproj.CoreCompileInputs.cache
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\obj\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.dll
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\obj\Debug\net6.0\refint\Harjoitustyö - C# Olio-ohjelmointi.dll
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\obj\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.pdb
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\obj\Debug\net6.0\Harjoitustyö - C# Olio-ohjelmointi.genruntimeconfig.cache
+C:\Users\s2101009\source\repos\Harjoitustyö - C# Olio-ohjelmointi\Harjoitustyö - C# Olio-ohjelmointi\obj\Debug\net6.0\ref\Harjoitustyö - C# Olio-ohjelmointi.dll
